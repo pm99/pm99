@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pm99
 - 👀 I’m interested in all things tech
 - 🌱 I’m currently learning AWS and Azure Architect certification
-- 💞️ I’m looking to collaborate on Coaching hub building
+- 💞️ I’m looking to collaborate on Coaching hub building on V3DA.com
 - 📫 How to reach me sailtothemoon@gmail.com
 
 <!---
